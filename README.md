@@ -1,12 +1,13 @@
-<!-- <h2 align="center">👋 Hi there!</h2> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=+%F0%9F%91%8B+Hi+there!)](https://git.io/typing-svg)
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=+%F0%9F%91%8B+Hi+there!)](https://git.io/typing-svg) -->
 
 <!-- make the image banner dimensions -->
 
 <p align="center">
   <img src="assets/banner.gif" alt="Banner Image" />
 </p>
+<h2 align="center">👋 Hi there!</h2>
 
 ### ✨ About Me
 
@@ -46,3 +47,5 @@ Every project is a balance of performance, maintainability, and innovation.
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
   <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
+
+---
