@@ -9,6 +9,14 @@
 </p>
 <h2 align="center">👋 Hi there!</h2>
 
+<div align="center">
+  
+  ![Software Engineer](https://img.shields.io/badge/Software_Engineer-181717?style=for-the-badge)
+  ![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-0A66C2?style=for-the-badge)
+  
+</div>
+
+
 ### ✨ About Me
 
 ```md
@@ -42,10 +50,21 @@ Every project is a balance of performance, maintainability, and innovation.
 ```
 ---
 
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/krichenyassine/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-E74C3C?style=for-the-badge)](https://portfolio-yassine-krichens-projects.vercel.app/)
+  
+</div>
+
+<div align="center">
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
   <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
 
----
+</div>
+
+
