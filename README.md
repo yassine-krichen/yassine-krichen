@@ -1,7 +1,14 @@
 <p align="center">
   <img src="assets/banner.gif" alt="Banner Image" />
 </p>
-<h2 align="center">👋 Hi there!</h2>
+<h2 align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&center=true&repeat=false&width=435&height=25&lines=%F0%9F%91%8B+Hi+there!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&center=true&repeat=false&width=435&height=25&lines=%F0%9F%91%8B+Hi+there!" />
+</picture>
+
+</h2>
 
 <div align="center">
   
@@ -14,8 +21,8 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=25&lines=%E2%9C%A8+About+Me" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=25&lines=%E2%9C%A8+About+Me" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=40&lines=%E2%9C%A8+About+Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=40&lines=%E2%9C%A8+About+Me" />
 </picture>
 
 ```md
