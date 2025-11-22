@@ -14,8 +14,8 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=25&lines=%E2%9C%A8+About+Me" />
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=25&lines=%E2%9C%A8+About+Me" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=25&lines=%E2%9C%A8+About+Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=25&lines=%E2%9C%A8+About+Me" />
 </picture>
 
 ```md
@@ -32,8 +32,8 @@ Every project is a balance of performance, maintainability, and innovation.
 <!-- ### 👨‍💻 Areas of Expertise -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=25&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Areas+of+Expertise" />
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=25&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Areas+of+Expertise" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=25&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Areas+of+Expertise" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=25&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Areas+of+Expertise" />
 </picture>
 
 
@@ -54,8 +54,8 @@ Every project is a balance of performance, maintainability, and innovation.
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=25&lines=%F0%9F%8C%9F+Philosophy" />
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=25&lines=%F0%9F%8C%9F+Philosophy" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=25&lines=%F0%9F%8C%9F+Philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=25&lines=%F0%9F%8C%9F+Philosophy" />
 </picture>
 
 ```md
