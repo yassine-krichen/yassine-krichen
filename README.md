@@ -3,10 +3,11 @@
 </p>
 <h2 align="center">
 
-<picture>
+👋 Hi there
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&center=true&repeat=false&width=435&height=25&lines=%F0%9F%91%8B+Hi+there!" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&center=true&repeat=false&width=435&height=25&lines=%F0%9F%91%8B+Hi+there!" />
-</picture>
+</picture> -->
 
 </h2>
 
@@ -17,13 +18,13 @@
   
 </div>
 
-<!-- ### ✨ About Me -->
+### ✨ About Me
 
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=40&lines=%E2%9C%A8+About+Me" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=40&lines=%E2%9C%A8+About+Me" />
-</picture>
+</picture> -->
 
 ```md
 I’m a graduate in **IT – Information Systems Development (ISET)**,
@@ -36,12 +37,12 @@ Every project is a balance of performance, maintainability, and innovation.
 ```
 ---
 
-<!-- ### 👨‍💻 Areas of Expertise -->
+### 👨‍💻 Areas of Expertise
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=40&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Areas+of+Expertise" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=40&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Areas+of+Expertise" />
-</picture>
+</picture> -->
 
 
 
@@ -57,16 +58,16 @@ Every project is a balance of performance, maintainability, and innovation.
 
 ---
 
-<!-- ### 🌟 Philosophy -->
+🌟 Philosophy
 
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=40&lines=%F0%9F%8C%9F+Philosophy" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=40&lines=%F0%9F%8C%9F+Philosophy" />
-</picture>
+</picture> -->
 
 ```md
- “Efficient engineering is not about writing more code—it’s about writing the *right* code.”
+ “Efficient engineering is not about writing more code, it’s about writing the *right* code.”
 ```
 ---
 
