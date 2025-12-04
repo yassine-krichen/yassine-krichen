@@ -11,12 +11,20 @@
 
 </h2>
 
+
+
 <div align="center">
   
   ![Software Engineer](https://img.shields.io/badge/Software_Engineer-181717?style=for-the-badge)
   ![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-0A66C2?style=for-the-badge)
   
 </div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,nestjs,react,nextjs,typescript,docker,git,postman&perline=9" alt="My Skills" />
+</p>
+
+---
 
 ### ✨ About Me
 
