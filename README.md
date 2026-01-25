@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,nestjs,react,nextjs,typescript,docker,git,postman&perline=9" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,nestjs,react,nextjs,typescript,docker,git,postman&perline=9" alt="My Skills" />
 </p>
 
 ---
